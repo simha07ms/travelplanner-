@@ -2,7 +2,7 @@
 
 # Travel Planner Project
 
-A Python-based travel planner application that uses *Dijkstra's algorithm* to find the most efficient travel routes between cities. This project generates an HTML output file displaying the optimal travel route, making it useful for users seeking efficient route suggestions based on route distances.
+A Python-based travel planner project that uses *Dijkstra's algorithm* to find the most efficient travel routes between cities. This project generates an HTML output file displaying the optimal travel route, making it useful for users seeking efficient route suggestions based on route distances.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -12,8 +12,7 @@ A Python-based travel planner application that uses *Dijkstra's algorithm* to fi
 5. [Usage](#usage)
 6. [Dependencies](#dependencies)
 7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ---
 
