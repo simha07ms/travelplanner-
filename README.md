@@ -27,11 +27,11 @@ The Travel Planner project allows users to input start and destination locations
 This project is organized into several files for modularity:
 
 - *main.py*: Entry point of the application.
-- *fileoperation.py*: Reads and processes input files containing route and city data.
-- *graph_function.py*: Implements Dijkstra's algorithm for shortest-path calculations.
+- *fileop.py*: Reads and processes input files containing route and city data.
+- *graph.py*: Implements Dijkstra's algorithm for shortest-path calculations.
 - *location.py*: Manages location data.
-- *route.py*: Manages route data.
-- *parser.py*: Parses data files and pre-processes information.
+- *routes.py*: Manages route data.
+- *parsing.py*: Parses data files and pre-processes information.
 - *routes.csv*: Contains route data (city connections and distances).
 - *cities.csv*: Contains information about cities (city names and identifiers).
 - *output.html*: Displays route results in a browser.
